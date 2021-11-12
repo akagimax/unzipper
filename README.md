@@ -1,4 +1,6 @@
 # unzipper
+En
+
 Several files are unzipped one time.
 
 Ref:https://correct-log.com/bat_ps_all_unzip_script/
@@ -10,6 +12,7 @@ The code of this site is not able to unzip files with a space in the name.
 The unzipper.bat is able to unzip to such files.
 
 
+Ja
 
 
 複数のzipファイルを解凍するバッチファイルです。
