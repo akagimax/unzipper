@@ -5,5 +5,4 @@ dir /b /s *.zip>%~dp0zips.txt
 
 for /f "delims=" %%a in (%~dp0zips.txt) do (
 powershell -command "Expand-Archive -Path \"%%a\" -DestinationPath \"%%~na\""
-pause
 )
